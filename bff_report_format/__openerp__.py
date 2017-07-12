@@ -24,14 +24,14 @@
     'version': '0.0.1',
     'category': 'Extra Tools',
     'website': 'https://builtforfifty.com/odoo',
-    'author': 'Muhammad Fawwaz, builtforfifty',
+    'author': 'Abu Uzayr, builtforfifty',
     'application': False,
     'installable': True,
     'depends': [
         'base',
     ],
     'images': [
-        'static/description/buff_report_format_banner.jpg',
+        'static/description/buff_report_format_banner.png',
     ],
     'data': [
         'data/ir/config_parameter/main.xml',
