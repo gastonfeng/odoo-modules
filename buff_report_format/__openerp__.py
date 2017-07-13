@@ -19,7 +19,7 @@
 #
 ###############################################################################
 {
-    'name': "BuFF Report Format Patch",
+    'name': "Report Format Patch",
     'summary': "Fix report format design issue",
     'version': '0.0.1',
     'category': 'Extra Tools',
