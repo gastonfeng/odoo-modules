@@ -22,7 +22,7 @@
     'name': "Partner Bank Branch",
     'summary': "Add branch code to partner bank accounts",
     'version': '0.0.1',
-    'category': 'Extra Tools',
+    'category': 'Accounting & Finance',
     'website': 'https://builtforfifty.com/odoo',
     'author': 'Abu Uzayr @ builtforfifty',
     'application': False,
