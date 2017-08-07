@@ -31,7 +31,7 @@
         'base',
     ],
     'images': [
-        'static/description/buff_default_tz.jpg',
+        'static/description/buff_default_tz.png',
     ],
     'data': [
         'views/res_users.xml',
