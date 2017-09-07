@@ -14,5 +14,6 @@ module | version | summary
 [buff_hide_root_user](buff_hide_root_user/) | 9.0.0.0.1 | Hide the root user from all users
 [buff_partner_bank_branch](buff_partner_bank_branch/) | 9.0.0.0.1 | Add branch code to partner bank accounts
 [buff_default_tz](buff_default_tz/) | 9.0.0.0.1 | Set Default Timezone for Users and Partners
+[buff_partner_index](buff_partner_index/) | 9.0.0.0.1 | Adds a partner index based on the partner's name
 
 [//]: # (end addons)
