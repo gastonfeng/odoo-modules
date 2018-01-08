@@ -3,6 +3,8 @@ Modules for Odoo Community v9
 
 This project aims to deal with modules related to helping users use Odoo better.
 
+The apps are listed on [Odoo App Store](https://apps.odoo.com/apps/browse?repo_maintainer_id=189507) with a total of 800+ downloads.
+
 [//]: # (addons)
 
 Available modules
