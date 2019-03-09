@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # © <2017> <builtforfifty>
 
-from odoo import models, fields, api, exceptions, _
+from odoo import models, api, exceptions, _
 
 class res_users(models.Model):
     _inherit = 'res.users'
