@@ -33,7 +33,8 @@
                 <field name="type" position="after">
                     <field name="index"/>
                 </field>
-                <xpath expr="//templates//div[@class='oe_kanban_details']/strong[@class='oe_partner_heading']" position="after">
+                <xpath expr="//templates//div[hasclass('oe_kanban_details')]/strong[@class='oe_partner_heading']"
+                       position="after">
                     <p style="margin: 0;">
                         <strong>ID: </strong>
                         <field name="index"/>
